@@ -2,8 +2,8 @@
 
 ## News Scraper with Mongo DB and Cheerios 
 
-**The fully deployed app can be found at:**
-_https://news-star-mongodb.herokuapp.com/
+**The fully deployed app can be found at:**<br>
+-https://news-star-mongodb.herokuapp.com/
 
 ### Program Logic
 
